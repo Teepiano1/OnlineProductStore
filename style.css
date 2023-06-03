@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.maincontainer{
+    color: blueviolet;
+    font-size: small;
+    width: 20rem;
+}
+.image{
+    width: 10rem;
+}
